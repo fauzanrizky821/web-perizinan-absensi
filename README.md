@@ -1,1 +1,2 @@
 # web-perizinan-absensi
+Website Surat Perizinan adalah aplikasi berbasis web yang dirancang khusus untuk mempermudah proses pengajuan surat izin tidak masuk perkuliahan oleh mahasiswa. Aplikasi ini bertujuan untuk menyederhanakan dan mempercepat proses pendataan serta pengelolaan surat izin, sehingga baik mahasiswa maupun pihak administrasi akademik dapat mengakses dan mengelola data izin dengan lebih efisien. 
